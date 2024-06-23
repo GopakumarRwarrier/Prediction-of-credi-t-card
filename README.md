@@ -54,8 +54,10 @@ The model achieved the following results on the test dataset before tuning:
 * Accuracy: 93.29%   
 * Precision: 96.29%      
 * Recall: 89.65%     
-* F1-Score: 92.85%     
+* F1-Score: 92.85%
+    
 The model achieved the following results on the test dataset before tuning:
+
 * Accuracy: 94.41%     
 * Precision: 90.00%    
 * Recall: 100.00%     
