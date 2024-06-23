@@ -1,7 +1,7 @@
 # Prediction-of-credi-t-card
 Predicting a credit transaction is legit or fraud
 # **Credit Card Fraud Detection**
-**This project aims to detect fraudulent credit card transactions using machine learning techniques. The dataset used for this project is highly imbalanced, which is typical for fraud detection problems.**
+**This project aims to detect fraudulent credit card transactions using machine learning techniques. The dataset used for this project is highly imbalanced, which is typical for fraud detection problems.**   
 A credit card is one of the most used financial products to make online purchases and payments. Though the Credit cards can be a convenient way to manage your finances, they can also be risky. Credit card fraud is the unauthorized use of someone else's credit card or credit card information to make purchases or withdraw cash.
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. 
